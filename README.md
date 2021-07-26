@@ -2,7 +2,7 @@
 > 后台管理系统
 
 
-目前版本为 `v4.0+` 基于 `vue-cli` 进行构建
+基于 `vue-cli` 进行构建
 
 ## Build Setup
 
