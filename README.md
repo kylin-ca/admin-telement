@@ -1,5 +1,5 @@
 
-> cling  后台管理系统
+> 后台管理系统
 
 
 目前版本为 `v4.0+` 基于 `vue-cli` 进行构建
@@ -28,18 +28,3 @@ npm run build:stage
 npm run build:prod
 ```
 
-## 其它
-
-```bash
-# 预览发布环境效果
-npm run preview
-
-# 预览发布环境效果 + 静态资源分析
-npm run preview -- --report
-
-# 代码格式检查
-npm run lint
-
-# 代码格式检查并自动修复
-npm run lint -- --fix
-```
